@@ -1,0 +1,33 @@
+segment_sources:
+  P7DC16D7E:
+    type: origin_type
+    relation: translation
+    language: en
+  PDB7BD3A4:
+    type: origin_type
+    relation: translation
+    language: de
+  PAB733018:
+    type: origin_type
+    relation: translation
+    language: es
+  P98A970BF:
+    type: origin_type
+    relation: translation
+    language: fr
+  P3442277E:
+    type: origin_type
+    relation: translation
+    language: nl
+  PCE949524:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  21d072304a094145aef53876ec118b8c:
+    P7DC16D7E: 43df304aef794d4cb0315e25d792fc35
+    PDB7BD3A4: 63d4656e43df45aaa7b0589e73958dba
+    PAB733018: 796aef84274047a39e7940d9b004dec1
+    P98A970BF: 856cc4ce654943a592ed8b7d8af8ce38
+    P3442277E: bbcf6c9824394c73b6dd22fb8d85daf9
+    PCE949524: 21c20f9deca34f9eb7c16b099e8de6f5
